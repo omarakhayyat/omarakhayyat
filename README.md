@@ -1,7 +1,7 @@
 Hi 👋 My name is Omar Khayyat
 =============================
 
-Software Engineer
+Sr. Software Engineer
 -----------------
 
 * 🌍  I'm based in Dubai, United Arab Emirates
